@@ -12,4 +12,4 @@ This project i did an analysis of how variable were related to each other
 
 
 ### AN IMAGE
-![](https://github.com/PopeCollins/Runing-Data/blob/main/.png "Image Title Text 1")
+![](https://github.com/PopeCollins/Runing-Data/blob/main/d.png "Image Title Text 1")
