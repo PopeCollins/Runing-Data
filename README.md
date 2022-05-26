@@ -9,3 +9,7 @@
 This project i did an analysis of how variable were related to each other
 1. A review analysis of data
 2. How the varaible are related to each other 
+
+
+AN IMAGE:
+![alt text](https://github.com/PopeCollins/Runing-Data/blob/main/d.png)
